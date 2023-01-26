@@ -7,7 +7,6 @@
 .ui.grid > .row.bot-army-row {
   flex-wrap: nowrap;
   min-height: 100%;
-  background-color: green;
 }
 
 .ui.grid {
